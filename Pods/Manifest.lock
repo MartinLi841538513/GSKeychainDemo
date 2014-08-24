@@ -1,0 +1,10 @@
+PODS:
+  - GSKeychain (1.0.0)
+
+DEPENDENCIES:
+  - GSKeychain (~> 1.0)
+
+SPEC CHECKSUMS:
+  GSKeychain: 97f00f30c5a46825e8395e17de59900e7e94c13e
+
+COCOAPODS: 0.33.1
